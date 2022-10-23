@@ -34,11 +34,12 @@
 <img width="1351" alt="image" src="https://user-images.githubusercontent.com/113824527/197373047-abf827fb-2613-44a8-816c-c00a480b966f.png">
 - [質問]親要素に対し、複数の要素を重ねて位置指定したいときの、ベストな方法(解決ずみ、実装の方法でだいたいあってるとのこと)
 
-<img width="1365" alt="image" src="https://user-images.githubusercontent.com/113824527/197373070-c2f858d5-28fa-4930-8ec5-a62e16047b60.png">
+<img width="1365" alt="image" src="https://user-images.githubusercontent.com/113824527/197373070-c2f858d5-28fa-4930-8ec5-a62e16047b60.png">  
 - [質問]JavaScriptで定義している要素がひしゃげる (解決はしてないけど、JavaScriptを学習すれば対処できると思う)
 
-<img width="1357" alt="image" src="https://user-images.githubusercontent.com/113824527/197373096-2b5b494f-b789-4595-bc3b-31a83778ae21.png">
-- [感想・tips] 凝り性なので、できなくてくやしいという思考になりがちですが、「完璧よりまず仕様を満たすほうがなんぼも優先度高い」というのを肝に命じたいと思いました！！
+<img width="1357" alt="image" src="https://user-images.githubusercontent.com/113824527/197373096-2b5b494f-b789-4595-bc3b-31a83778ae21.png">  
+
+- [感想・tips] 凝り性なので、できなくてくやしいという思考になりがちですが、「完璧よりまず仕様を満たすほうがなんぼも優先度高い」というのを肝に命じたいと思いました！！  
 - [参考記事]
-  - [動くWebデザインアイデア帳 - Web design gallery - スライドショー](https://coco-factory.jp/ugokuweb/move01-cat/slideshow/)
+  - [動くWebデザインアイデア帳 - Web design gallery - スライドショー](https://coco-factory.jp/ugokuweb/move01-cat/slideshow/)  
   - メモるの忘れたので、次回以降ちゃんと控えます。。。
